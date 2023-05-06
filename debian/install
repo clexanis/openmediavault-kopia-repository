@@ -1,0 +1,2 @@
+etc/apt/trusted.gpg.d/* etc/apt/trusted.gpg.d
+etc/apt/sources.list.d/* etc/apt/sources.list.d
